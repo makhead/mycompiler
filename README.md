@@ -1,5 +1,5 @@
 # mycompiler
-This is the final project of Computational theory at Zhejiang University.
+This is the final project of Compiling Principles at Zhejiang University.
 
 ## Description
 This is a C-like compiler built by flex, bison and llvm.
